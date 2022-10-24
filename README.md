@@ -1,2 +1,2 @@
-# app-that-will-make-me-a-billionaire
+# app that will make me a billionaire
 ok
